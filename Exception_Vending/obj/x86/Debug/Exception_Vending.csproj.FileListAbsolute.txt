@@ -1,0 +1,5 @@
+c:\users\angelo maragos\documents\visual studio 2010\Projects\Exception_Vending\Exception_Vending\bin\Debug\Exception_Vending.exe
+c:\users\angelo maragos\documents\visual studio 2010\Projects\Exception_Vending\Exception_Vending\bin\Debug\Exception_Vending.pdb
+c:\users\angelo maragos\documents\visual studio 2010\Projects\Exception_Vending\Exception_Vending\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\angelo maragos\documents\visual studio 2010\Projects\Exception_Vending\Exception_Vending\obj\x86\Debug\Exception_Vending.exe
+c:\users\angelo maragos\documents\visual studio 2010\Projects\Exception_Vending\Exception_Vending\obj\x86\Debug\Exception_Vending.pdb
